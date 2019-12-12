@@ -1,0 +1,23 @@
+body {color: #053004;
+}
+section {
+    background: black;
+    margin: 50px auto;
+    color: white;
+    width: 100px;
+    text-align: left;
+}
+.box {border: 10px solid grey; 
+    background: lightgrey;
+    width: 400px;}
+
+.mg-large {margin: 10px;}
+.mg-small  {margin: 5px;}
+
+.pd-large {padding: 20px;}
+.pd-small {padding: 5px;}
+
+h1 {    
+    font-family: Arial;
+    color: white;
+}
