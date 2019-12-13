@@ -11,13 +11,29 @@ section {
     background: lightgrey;
     width: 400px;}
 
-.mg-large {margin: 10px;}
-.mg-small  {margin: 5px;}
+.box1 {border: 2px dotted grey; 
+    background: rgb(224, 151, 55);
+    width: 200px;}
 
-.pd-large {padding: 20px;}
-.pd-small {padding: 5px;}
+.box2 {border: 2px dotted grey; 
+    background: rgb(65, 38, 4);
+    color: white;
+    width: 200px;}
+
+.mg-large {margin: 10px;}
+.mg-small  {margin: 10px;}
+
+.pd-large {padding: 2px;}
+.pd-small {padding: 2px;}
 
 h1 {    
     font-family: Arial;
-    color: white;
+    color:rgb(65, 38, 4);
+    text-align: center;
 }
+.flex { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+text {font-family: Arial, Helvetica, sans-serif;}
